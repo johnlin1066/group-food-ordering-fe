@@ -1,6 +1,6 @@
 # Group Food Ordering FE
 
-Group Food Ordering FE 使用 Vue, Vuetify 來實作 [group-food-ordering-core](https://github.com/johnlin1066/group-food-ordering-core) 的 View 細節實作。
+Group Food Ordering FE 使用 Vue, Vuetify, Axios 來實作 [group-food-ordering-core](https://github.com/johnlin1066/group-food-ordering-core) 的 View 細節實作。
 
 ## Project setup
 ```
